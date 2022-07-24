@@ -1,2 +1,2 @@
 # BancoDeDados
-Atividade resolvidas
+Atividades resolvidas
