@@ -1,16 +1,6 @@
-Banco de dados relacional SQL
+Este repositório contém a estrutura de um banco de dados relacional SQL que abrange várias tabelas inter-relacionadas. Ele é voltado para o gerenciamento de pessoas, restaurantes, receitas, e veículos, com funcionalidades como:
 
-Criação de tabelas: Estruturas para armazenar dados de pessoas, veículos, clientes e funcionários.
-
-Inserção de dados: Adicionar registros em cada tabela, como dados de pessoas, veículos e clientes.
-
-Atualização de registros: Modificar informações já existentes, como atualização de nomes e placas.
-
-Seleção de dados: Consulta e exibição de registros armazenados nas tabelas.
-
-Relações: As tabelas estão interconectadas por chaves estrangeiras para garantir a integridade dos dados.
-
-Criação de banco de dados e tabelas.
-Inserção e atualização de registros.
-Consultas de dados com critérios específicos.
-Alterações e exclusões de colunas e tabelas quando necessário.
+- **Criação de Tabelas**: Tabelas como `Pessoa`, `Restaurante`, `Receita` e `Veículo`, cada uma armazenando dados específicos e interligadas por chaves estrangeiras.
+- **Inserção de Dados**: Registros são inseridos para cada entidade, permitindo a inserção de pessoas, receitas, veículos, etc.
+- **Consultas SQL**: Diversas consultas para exibir registros baseados em critérios específicos, como filtrar por notas de avaliações ou tipos de veículos.
+- **Atualizações e Alterações**: Há exemplos de alterações de tabelas, como inclusão de colunas e atualizações de registros, como a modificação de placas de veículos.
